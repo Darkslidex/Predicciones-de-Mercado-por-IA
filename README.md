@@ -33,7 +33,7 @@ El proyecto sigue una **Arquitectura Modular Desacoplada**, separando la lógica
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/marketpulse-ai.git](https://github.com/tu-usuario/marketpulse-ai.git)
+   git clone [https://github.com/Darkslidex/marketpulse-ai.git](https://github.com/tu-usuario/marketpulse-ai.git)
    cd marketpulse-ai
 2. **Instalar dependencias:**
     pip install -r requirements.txt
